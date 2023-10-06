@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emma410&label=Profile%20views&color=0e75b6&style=flat" alt="emma410" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/](https://assets-global.website-files.com/6410ebf8e483b5bb2c86eb27/6410ebf8e483b53d6186fc53_ABM%20College%20Web%20developer%20main.jpg)?username=emma410" alt="emma410" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.abmcollege.com%2Fblog%2Fwhat-you-learn-in-a-web-design-and-development-program&psig=AOvVaw3bNgFO16kXcOCmeE-uFb8F&ust=1696674948210000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPC0wbvL4oEDFQAAAAAdAAAAABAE?username=[emma410](https://github.com/emma410)" alt="emma410" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/smallrobot01" target="blank"><img src="https://img.shields.io/twitter/follow/smallrobot01?logo=twitter&style=for-the-badge" alt="smallrobot01" /></a> </p>
 
